@@ -222,4 +222,3 @@ python gaode_map_mcp.py
 ## 📄 License
 
 GPL-3.0 ©
-```
