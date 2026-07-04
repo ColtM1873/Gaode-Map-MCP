@@ -217,13 +217,9 @@ python gaode_map_mcp.py
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ColtM1873/Gaode-Map-MCP&type=Date)](https://star-history.com/#ColtM1873/Gaode-Map-MCP&Date)
 
-> 图表由 [star-history.com](https://star-history.com) 提供。仓库刚上线时还没有数据，过段时间再回来看曲线吧～
-
 ---
 
 ## 📄 License
 
 GPL-3.0 ©
 ```
-
----
